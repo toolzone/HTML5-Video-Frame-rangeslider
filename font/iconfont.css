@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "iconfontvideo"; /* Project id 2966180 */
+  src: url('iconfont.woff2?t=1638184432858') format('woff2'),
+       url('iconfont.woff?t=1638184432858') format('woff'),
+       url('iconfont.ttf?t=1638184432858') format('truetype');
+}
+
+.iconfontvideo {
+  font-family: "iconfontvideo" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.vi-nextsec:before {
+  content: "\e6ce";
+}
+
+.vi-pause:before {
+  content: "\e6cf";
+}
+
+.vi-play:before {
+  content: "\e6d0";
+}
+
+.vi-presec:before {
+  content: "\e6d1";
+}
+
+.vi-stop:before {
+  content: "\e6d2";
+}
+
+.vi-voice:before {
+  content: "\e6d3";
+}
+
+.vi-novoice:before {
+  content: "\e6d6";
+}
+
+.vi-pause1:before {
+  content: "\e6d7";
+}
+
+.vi-redo:before {
+  content: "\e6d9";
+}
+
+.vi-segpause:before {
+  content: "\e6da";
+}
+
+.vi-revoke:before {
+  content: "\e6db";
+}
+
+.vi-segplay:before {
+  content: "\e6dc";
+}
+
+.vi-segstop:before {
+  content: "\e6dd";
+}
+
