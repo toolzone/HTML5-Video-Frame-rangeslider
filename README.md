@@ -7,7 +7,7 @@
 `http://localhost/index.html`
 
 # 预览
-![img](https://github.com/toolzone/HTML5-Video-Frame-rangeslider/blob/master/static/F56D3138-D11D-4844-9931-BF3680AFED9C_proc.jpg)
+![img](https://raw.githubusercontent.com/toolzone/HTML5-Video-Frame-rangeslider/888e49cbf77c4259e01f1a635cfd2c674c3013f3/static/F56D3138-D11D-4844-9931-BF3680AFED9C_proc.jpg)
 
 # 参考资料
 https://github.com/jordiwang/web-capture
